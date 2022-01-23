@@ -7,7 +7,7 @@
 
 
 ### Lesson 1 -
-* #### References
+ * #### References
 #### TD 1 - [Oscillators](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_1-Oscillators)
 
 
