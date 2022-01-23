@@ -8,19 +8,19 @@
 
 ### Lesson 1 -
 #### References
-#### TD 1 - [Oscillators](Ichbiah/TD_1-Oscillators)
+#### TD 1 - [Oscillators](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_1-Oscillators)
 
 ### Lesson 2 -
 #### References
-#### TD 2 - [Patterning](Ichbiah/TD_2-Patterning)
+#### TD 2 - [Patterning](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_2-Patterning)
 
 ### Lesson 3 -
 #### References
-#### TD 3 - [Differentiation](Ichbiah/TD_3-Differentiation)
+#### TD 3 - [Differentiation](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_3-Differentiation)
 
 ### Lesson 4 -
 #### References
-#### TD 4 - [Turing](Ichbiah/TD_4-Turing)
+#### TD 4 - [Turing](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_4-Turing)
 
 ### Lesson 5 - From cell to tissue tension
 
