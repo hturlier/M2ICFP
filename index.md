@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+# Course Physics of multicellular systems
+## M2 ICFP - 2021-2022
+### Instructors: 
+- Vincent Hakim (vincent.hakim@ens.fr) 
+- Hervé Turlier (herve.turlier@college-de-france.fr)
+### TDs: 
+Sacha Ichbiah (sacha.ichbiah@college-de-france.fr)
+
 
 You can use the [editor on GitHub](https://github.com/hturlier/M2ICFP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
