@@ -1,44 +1,39 @@
 # Course Physics of multicellular systems
 ## M2 ICFP - 2021-2022
 ### Instructors: 
-- Vincent Hakim (vincent.hakim@ens.fr) 
-- Hervé Turlier (herve.turlier@college-de-france.fr)
-### TDs: 
-Sacha Ichbiah (sacha.ichbiah@college-de-france.fr)
-
+- [Vincent Hakim](vincent.hakim@ens.fr) - Lessons 1-4
+- [Hervé Turlier](herve.turlier@college-de-france.fr) - Lessons 5-9
+- [Sacha Ichbiah](sacha.ichbiah@college-de-france.fr) - TDs
 
 You can use the [editor on GitHub](https://github.com/hturlier/M2ICFP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Lesson 1
+###
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 
 
-```markdown
-Syntax highlighted code block
+## Lesson 2
+###
 
-# Header 1
-## Header 2
-### Header 3
+## Lesson 3
+###
 
-- Bulleted
-- List
+## Lesson 4
+###
 
-1. Numbered
-2. List
+## Lesson 5
+### From cell to tissue tension
 
-**Bold** and _Italic_ and `Code` text
+## Lesson 6
+### Discrete models of tissues in 2D and 3D
 
-[Link](url) and ![Image](src)
-```
+## Lesson 7
+### Continuous models of tissues - dissipation, dynamics, rheology
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Lesson 8
+### Continuous models of tissues - growth and homeostasis
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hturlier/M2ICFP/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Lesson 9
+### Mechanochemical couplings in tissues
