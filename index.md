@@ -3,7 +3,7 @@
 ### Instructors: 
 - [Vincent Hakim](vincent.hakim@ens.fr) - Lessons 1-4
 - [Hervé Turlier](herve.turlier@college-de-france.fr) - Lessons 5-9
-- [Sacha Ichbiah](sacha.ichbiah@college-de-france.fr) - TDs
+- [Sacha Ichbiah](sacha.ichbiah@college-de-france.fr) - TDs 1-9
 
 
 ### Lesson 1
