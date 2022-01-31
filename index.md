@@ -6,22 +6,28 @@
 - [Sacha Ichbiah](mailto:sacha.ichbiah@college-de-france.fr) - TDs 1-9
 
 
-### Lesson 1 -
- * #### References
+### Lesson 1 - Introduction to gene network models and dynamics
+ * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2022-lecture1.pdf)
+ * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2022-lecture1_slides.pdf)
+ * #### References:
+    ** [Harima, Y., Takashima, Y., Ueda, Y., Ohtsuka, T., & Kageyama, R. (2013). Accelerating the tempo of the segmentation clock by reducing the number of introns in the Hes7 gene. Cell Reports, 3(1), 1-7.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/harimakageyama13cellrep.pdf)
+  ** [Farrell, J. A., Wang, Y., Riesenfeld, S. J., Shekhar, K., Regev, A., & Schier, A. F. (2018). Single-cell reconstruction of developmental trajectories during zebrafish embryogenesis. Science, 360(6392).](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/farrellschier18science.pdf)
+    ** [Han, X., Wang, R., Zhou, Y., Fei, L., Sun, H., Lai, S., ... & Guo, G. (2018). Mapping the mouse cell atlas by microwell-seq. Cell, 172(5), 1091-1107.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/hanguo18cell.pdf)
+
  * #### TD 1 - [Oscillators](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_1-Oscillators)
 
 
-### Lesson 2 -
+### Lesson 2 - Positional information
  * #### References
  * #### TD 2 - [Patterning](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_2-Patterning)
 
 
-### Lesson 3 -
+### Lesson 3 - Turing mechanism and auto-organisation
  * #### References
  * #### TD 3 - [Differentiation](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_3-Differentiation)
 
 
-### Lesson 4 -
+### Lesson 4 - Cell- cell interactions and patterning
  * #### References
  * #### TD 4 - [Turing](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_4-Turing)
 
