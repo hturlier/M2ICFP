@@ -48,8 +48,14 @@
 
 
 ### Lesson 5 - From cell to tissue tension
+ * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 5 - Tissue tension/M2-2022-lecture5.pdf)
+ * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 5 - Tissue tension/M2-2022-lecture5_slides.pdf)
+ * #### TD 5 - [Cytokinesis](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_5-Cytokinesis)
  * #### References
- * #### TD 5 - [Cytokinesis]
+    + [Steinberg, M. S. (1963). Reconstruction of tissues by dissociated cells: some morphogenetic tissue movements and the sorting out of embryonic cells may have a common explanation. Science, 141(3579), 401-408.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 5 - Tissue tension/Steinberg_Science_1963.pdf)
+    + [Harris, A. K. (1976). Is cell sorting caused by differences in the work of intercellular adhesion? A critique of the Steinberg hypothesis. Journal of theoretical biology, 61(2), 267-285.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 5 - Tissue tension/Harris_JTheoBiol_1976.pdf)
+    + [Brodland, G. W. (2002). The differential interfacial tension hypothesis (DITH): a comprehensive theory for the self-rearrangement of embryonic cells and tissues. J. Biomech. Eng., 124(2), 188-197.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 5 - Tissue tension/Brodland_2002.pdf)
+    + [Manning, M. L., Foty, R. A., Steinberg, M. S., & Schoetz, E. M. (2010). Coaction of intercellular adhesion and cortical tension specifies tissue surface tension. Proceedings of the National Academy of Sciences, 107(28), 12517-12522.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 5 - Tissue tension/Manning_PNAS_2010.pdf)
 
 
 ### Lesson 6 - Discrete models of tissues in 2D and 3D
