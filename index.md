@@ -71,14 +71,14 @@
 
 ### Lesson 7 - Continuous models of tissues: dissipation, dynamics, rheology
  * #### References
- * #### TD 7 - [Projects]
-
+ * #### TD 7 - [Projects (exam)](https://github.com/hturlier/M2ICFP/tree/main/Exam%20-%20TDs7-9)
+For the exam (Turing paper), you may want to use the following Python software to solve coupled partial differential equations: [XMDS2](http://www.xmds.org)
 
 ### Lesson 8 - Continuous models of tissues: growth and homeostasis
  * #### References
- * #### TD 8 - [Projects]
+ * #### TD 8 - [Projects (exam)](https://github.com/hturlier/M2ICFP/tree/main/Exam%20-%20TDs7-9)
 
 
 ### Lesson 9 - Mechanochemical couplings in tissues
  * #### References
- * #### TD 9 - [Projects]
+ * #### TD 9 - [Projects (exam)](https://github.com/hturlier/M2ICFP/tree/main/Exam%20-%20TDs7-9)
