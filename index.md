@@ -60,7 +60,7 @@
 
 ### Lesson 6 - Discrete models of tissues in 2D and 3D
  * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/M2-2022-lecture6.pdf)
- * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/M2-2022-lecture6_slides.pdf)
+ * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/Lesson6_vertex_slides.pdf)
  * #### TD 6 - [VertexModel](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_6-Vertex_Models)
  * #### References
     + [Farhadifar, R., Röper, J. C., Aigouy, B., Eaton, S., & Jülicher, F. (2007). The influence of cell mechanics, cell-cell interactions, and proliferation on epithelial packing. Current Biology, 17(24), 2095-2104.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/Farhadifar_CurrBiol_2007.pdf)
