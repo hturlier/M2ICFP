@@ -81,7 +81,7 @@
 For the exam (Turing paper), you may want to use the following Python software to solve coupled partial differential equations: [XMDS2](http://www.xmds.org)
 
 ### Lesson 8 - Continuous models of tissues: growth and homeostasis
- * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7 - Continuous 2/M2-2022-lecture8.pdf)
+ * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 8 - Continuous 2/M2-2022-lecture8.pdf)
  * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7 - Continuous 1/Lesson7-8_slides.pdf)
  * #### References
      + [Basan, M., Risler, T., Joanny, J. F., Sastre‐Garau, X., & Prost, J. (2009). Homeostatic competition drives tumor growth and metastasis nucleation. HFSP journal, 3(4), 265-272.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 8 - Continuous 2/Basan_HFSP_2009.pdf)
