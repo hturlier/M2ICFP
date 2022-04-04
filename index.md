@@ -1,8 +1,8 @@
 # Course Physics of multicellular systems
 ## M2 ICFP - 2021-2022
 ### Instructors: 
-- [Vincent Hakim](mailto:vincent.hakim@ens.fr) - Lessons 1-4
-- [Hervé Turlier](mailto:herve.turlier@college-de-france.fr) - Lessons 5-9
+- [Vincent Hakim](mailto:vincent.hakim@ens.fr) - Lessons 1-4 - Multicellular patterning
+- [Hervé Turlier](mailto:herve.turlier@college-de-france.fr) - Lessons 5-9 - Multicellular mechanics ([Complete notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/PhysicsMulticellularSystems.pdf))
 - [Sacha Ichbiah](mailto:sacha.ichbiah@college-de-france.fr) - TDs 1-9
 
 
@@ -89,3 +89,4 @@ For the exam (Turing paper), you may want to use the following Python software t
      + [Montel, F., Delarue, M., Elgeti, J., Malaquin, L., Basan, M., Risler, T., ... & Joanny, J. F. (2011). Stress clamp experiments on multicellular tumor spheroids. Physical review letters, 107(18), 188102.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 8 - Continuous 2/Montel_PRL_2011.pdf)
      + [Delarue, M., Montel, F., Caen, O., Elgeti, J., Siaugue, J. M., Vignjevic, D., ... & Cappello, G. (2013). Mechanical control of cell flow in multicellular spheroids. Physical review letters, 110(13), 138103.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 8 - Continuous 2/Delarue_PRL_2013.pdf)
  * #### TD 8 - [Projects (exam)](https://github.com/hturlier/M2ICFP/tree/main/Exam%20-%20TDs7-9)
+ For the exam (Turing paper), you may want to use the following Python software to solve coupled partial differential equations: [XMDS2](http://www.xmds.org)
