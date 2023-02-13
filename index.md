@@ -9,6 +9,7 @@
 
 ### Lesson 1 - Introduction to gene network models and dynamics
 <!-- * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2023-lecture1.pdf) -->
+ * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2023-lecture1_slides.pdf)
  * #### TD 1 - [Oscillators](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_1-Oscillators)
  * #### References:
     + [Harima, Y., Takashima, Y., Ueda, Y., Ohtsuka, T., & Kageyama, R. (2013). Accelerating the tempo of the segmentation clock by reducing the number of introns in the Hes7 gene. Cell Reports, 3(1), 1-7.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/harimakageyama13cellrep.pdf)
@@ -17,7 +18,6 @@
 
 
 ### Lesson 2 - Positional information
- * #### [Course notes]
  * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 2 - positional information/M2-2023-lecture2_slides.pdf)
  * #### TD 2 - [Patterning](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_2-Patterning)
  * #### References
@@ -28,7 +28,6 @@
 
 
 ### Lesson 3 - Turing mechanism and self-organisation
- * #### [Course notes]
  * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 3 - Turing mechanism and autoorganisation/M2-2023-lecture3_slides.pdf)
  * #### TD 3 - [Differentiation](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_3-Differentiation)
  * #### References
