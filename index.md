@@ -37,8 +37,8 @@
 
 
 ### Lesson 4 - From cell to tissue tension
- * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/M2-2023-lecture5.pdf)
- * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/M2-2023-lecture5_slides.pdf)
+ * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/M2-2023-lecture4.pdf)
+ * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/M2-2023-lecture4_slides.pdf)
  * #### TD 4 - [Cytokinesis](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_4-Cytokinesis)
  * #### References
     + [Steinberg, M. S. (1963). Reconstruction of tissues by dissociated cells: some morphogenetic tissue movements and the sorting out of embryonic cells may have a common explanation. Science, 141(3579), 401-408.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/Steinberg_Science_1963.pdf)
