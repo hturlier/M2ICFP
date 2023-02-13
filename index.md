@@ -7,8 +7,8 @@
 
 
 ### Lesson 1 - Introduction to gene network models and dynamics
- * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2022-lecture1.pdf)
- * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2022-lecture1-slides.pdf)
+ * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2023-lecture1.pdf)
+<!-- * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2022-lecture1-slides.pdf) -->
  * #### TD 1 - [Oscillators](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_1-Oscillators)
  * #### References:
     + [Harima, Y., Takashima, Y., Ueda, Y., Ohtsuka, T., & Kageyama, R. (2013). Accelerating the tempo of the segmentation clock by reducing the number of introns in the Hes7 gene. Cell Reports, 3(1), 1-7.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/harimakageyama13cellrep.pdf)
@@ -18,7 +18,7 @@
 
 ### Lesson 2 - Positional information
  * #### [Course notes]
- * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 2 - positional information/M2-2022-lecture2_slides.pdf)
+ * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 2 - positional information/M2-2023-lecture2_slides.pdf)
  * #### TD 2 - [Patterning](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_2-Patterning)
  * #### References
     + [Aquino, G., Wingreen, N. S., & Endres, R. G. (2016). Know the single-receptor sensing limit? Think again. Journal of statistical physics, 162(5), 1353-1364.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 2 - positional information/aquinowingreen2016jsp.pdf)
@@ -29,7 +29,7 @@
 
 ### Lesson 3 - Turing mechanism and self-organisation
  * #### [Course notes]
- * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 3 - Turing mechanism and autoorganisation/M2-2022-lecture3_slides.pdf)
+ * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 3 - Turing mechanism and autoorganisation/M2-2023-lecture3_slides.pdf)
  * #### TD 3 - [Differentiation](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_3-Differentiation)
  * #### References
     + [Ciliberto, S., Coullet, P., Lega, J., Pampaloni, E., & Perez-Garcia, C. (1990). Defects in roll-hexagon competition. Physical review letters, 65(19), 2370.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 3 - Turing mechanism and autoorganisation/cilibertocoullet90prl.pdf)
@@ -38,8 +38,8 @@
 
 
 ### Lesson 4 - From cell to tissue tension
- * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/M2-2022-lecture5.pdf)
- * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/M2-2022-lecture5_slides.pdf)
+ * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/M2-2023-lecture5.pdf)
+ * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/M2-2023-lecture5_slides.pdf)
  * #### TD 4 - [Cytokinesis](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_4-Cytokinesis)
  * #### References
     + [Steinberg, M. S. (1963). Reconstruction of tissues by dissociated cells: some morphogenetic tissue movements and the sorting out of embryonic cells may have a common explanation. Science, 141(3579), 401-408.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/Steinberg_Science_1963.pdf)
