@@ -1,15 +1,15 @@
 # Course Physics of multicellular systems
-## M2 ICFP - 2021-2022
+## M2 ICFP - 2022-2023
 ### Instructors: 
-- [Vincent Hakim](mailto:vincent.hakim@ens.fr) - Lessons 1-4 - Multicellular patterning
-- [Hervé Turlier](mailto:herve.turlier@college-de-france.fr) - Lessons 5-9 - Multicellular mechanics ([Complete notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/PhysicsMulticellularSystems.pdf))
-- [Sacha Ichbiah](mailto:sacha.ichbiah@college-de-france.fr) - TDs 1-9
+- [Vincent Hakim](mailto:vincent.hakim@ens.fr) - Lessons 1-3 and 5 - Multicellular patterning
+- [Hervé Turlier](mailto:herve.turlier@college-de-france.fr) - Lessons 4 and 6-9 - Multicellular mechanics ([Complete notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/PhysicsMulticellularSystems.pdf))
+- [Nicolas Ecker](mailto:nicolas.ecker@college-de-france.fr) - TDs 1-9
 
 
 ### Lesson 1 - Introduction to gene network models and dynamics
  * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2022-lecture1.pdf)
  * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2022-lecture1-slides.pdf)
- * #### TD 1 - [Oscillators](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_1-Oscillators)
+ * #### TD 1 - [Oscillators](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_1-Oscillators)
  * #### References:
     + [Harima, Y., Takashima, Y., Ueda, Y., Ohtsuka, T., & Kageyama, R. (2013). Accelerating the tempo of the segmentation clock by reducing the number of introns in the Hes7 gene. Cell Reports, 3(1), 1-7.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/harimakageyama13cellrep.pdf)
     + [Farrell, J. A., Wang, Y., Riesenfeld, S. J., Shekhar, K., Regev, A., & Schier, A. F. (2018). Single-cell reconstruction of developmental trajectories during zebrafish embryogenesis. Science, 360(6392).](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/farrellschier18science.pdf)
@@ -19,7 +19,7 @@
 ### Lesson 2 - Positional information
  * #### [Course notes]
  * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 2 - positional information/M2-2022-lecture2_slides.pdf)
- * #### TD 2 - [Patterning](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_2-Patterning)
+ * #### TD 2 - [Patterning](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_2-Patterning)
  * #### References
     + [Aquino, G., Wingreen, N. S., & Endres, R. G. (2016). Know the single-receptor sensing limit? Think again. Journal of statistical physics, 162(5), 1353-1364.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 2 - positional information/aquinowingreen2016jsp.pdf)
     + [Gregor, T., Tank, D. W., Wieschaus, E. F., & Bialek, W. (2007). Probing the limits to positional information. Cell, 130(1), 153-164.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 2 - positional information/gregorbialek07cell.pdf)
@@ -30,38 +30,38 @@
 ### Lesson 3 - Turing mechanism and self-organisation
  * #### [Course notes]
  * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 3 - Turing mechanism and autoorganisation/M2-2022-lecture3_slides.pdf)
- * #### TD 3 - [Differentiation](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_3-Differentiation)
+ * #### TD 3 - [Differentiation](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_3-Differentiation)
  * #### References
     + [Ciliberto, S., Coullet, P., Lega, J., Pampaloni, E., & Perez-Garcia, C. (1990). Defects in roll-hexagon competition. Physical review letters, 65(19), 2370.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 3 - Turing mechanism and autoorganisation/cilibertocoullet90prl.pdf)
     + [Hiscock, T. W., Tschopp, P., & Tabin, C. J. (2017). On the formation of digits and joints during limb development. Developmental cell, 41(5), 459-465.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 3 - Turing mechanism and autoorganisation/hiscocktabin17devcell.pdf)
     + [Schweisguth, F., & Corson, F. (2019). Self-organization in pattern formation. Developmental cell, 49(5), 659-677.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 3 - Turing mechanism and autoorganisation/schweisguthcorson19devcell.pdf)
 
 
-### Lesson 4 - Cell- cell interactions and patterning
+### Lesson 4 - From cell to tissue tension
+ * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/M2-2022-lecture5.pdf)
+ * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/M2-2022-lecture5_slides.pdf)
+ * #### TD 4 - [Cytokinesis](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_4-Cytokinesis)
+ * #### References
+    + [Steinberg, M. S. (1963). Reconstruction of tissues by dissociated cells: some morphogenetic tissue movements and the sorting out of embryonic cells may have a common explanation. Science, 141(3579), 401-408.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/Steinberg_Science_1963.pdf)
+    + [Harris, A. K. (1976). Is cell sorting caused by differences in the work of intercellular adhesion? A critique of the Steinberg hypothesis. Journal of theoretical biology, 61(2), 267-285.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/Harris_JTheoBiol_1976.pdf)
+    + [Brodland, G. W. (2002). The differential interfacial tension hypothesis (DITH): a comprehensive theory for the self-rearrangement of embryonic cells and tissues. J. Biomech. Eng., 124(2), 188-197.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/Brodland_2002.pdf)
+    + [Manning, M. L., Foty, R. A., Steinberg, M. S., & Schoetz, E. M. (2010). Coaction of intercellular adhesion and cortical tension specifies tissue surface tension. Proceedings of the National Academy of Sciences, 107(28), 12517-12522.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/Manning_PNAS_2010.pdf)
+
+<!--
+### Lesson 5 - Cell- cell interactions and patterning
  * #### [Course notes]
- * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 4 - Self-organization 2/M2-2022-lecture4_slides.pdf)
- * #### TD 4 - [Turing](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_4-Turing)
+ * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 5 - Self-organization 2/M2-2022-lecture4_slides.pdf)
+ * #### TD 5 - [Turing](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_5-Turing)
  * #### References
     + [Collier, J. R., Monk, N. A., Maini, P. K., & Lewis, J. H. (1996). Pattern formation by lateral inhibition with feedback: a mathematical model of delta-notch intercellular signalling. Journal of theoretical Biology, 183(4), 429-446.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 4 - Self-organization 2/collierlewis96jtb.pdf)
     + [Schweisguth, F., & Corson, F. (2019). Self-organization in pattern formation. Developmental cell, 49(5), 659-677.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 4 - Self-organization 2/schweisguthcorson19devcell.pdf)
     + [Talia, S. D., & Vergassola, M. (2022). Waves in Embryonic Development. Annual Review of Biophysics, 51.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 4 - Self-organization 2/ditaliavergassola22annrevbiophys.pdf)
 
 
-### Lesson 5 - From cell to tissue tension
- * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 5 - Tissue tension/M2-2022-lecture5.pdf)
- * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 5 - Tissue tension/M2-2022-lecture5_slides.pdf)
- * #### TD 5 - [Cytokinesis](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_5-Cytokinesis)
- * #### References
-    + [Steinberg, M. S. (1963). Reconstruction of tissues by dissociated cells: some morphogenetic tissue movements and the sorting out of embryonic cells may have a common explanation. Science, 141(3579), 401-408.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 5 - Tissue tension/Steinberg_Science_1963.pdf)
-    + [Harris, A. K. (1976). Is cell sorting caused by differences in the work of intercellular adhesion? A critique of the Steinberg hypothesis. Journal of theoretical biology, 61(2), 267-285.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 5 - Tissue tension/Harris_JTheoBiol_1976.pdf)
-    + [Brodland, G. W. (2002). The differential interfacial tension hypothesis (DITH): a comprehensive theory for the self-rearrangement of embryonic cells and tissues. J. Biomech. Eng., 124(2), 188-197.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 5 - Tissue tension/Brodland_2002.pdf)
-    + [Manning, M. L., Foty, R. A., Steinberg, M. S., & Schoetz, E. M. (2010). Coaction of intercellular adhesion and cortical tension specifies tissue surface tension. Proceedings of the National Academy of Sciences, 107(28), 12517-12522.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 5 - Tissue tension/Manning_PNAS_2010.pdf)
-
-
 ### Lesson 6 - Discrete models of tissues in 2D and 3D
  * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/M2-2022-lecture6.pdf)
  * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/Lesson6_vertex_slides.pdf)
- * #### TD 6 - [VertexModel](https://github.com/hturlier/M2ICFP/tree/main/Ichbiah/TD_6-Vertex_Models)
+ * #### TD 6 - [VertexModel](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_6-Vertex_Models)
  * #### References
     + [Farhadifar, R., Röper, J. C., Aigouy, B., Eaton, S., & Jülicher, F. (2007). The influence of cell mechanics, cell-cell interactions, and proliferation on epithelial packing. Current Biology, 17(24), 2095-2104.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/Farhadifar_CurrBiol_2007.pdf)
     + [Staple, D. B., Farhadifar, R., Röper, J. C., Aigouy, B., Eaton, S., & Jülicher, F. (2010). Mechanics and remodelling of cell packings in epithelia. The European Physical Journal E, 33(2), 117-127.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/Staple_EPJE_2010.pdf)
@@ -90,3 +90,4 @@ For the exam (Turing paper), you may want to use the following Python software t
      + [Delarue, M., Montel, F., Caen, O., Elgeti, J., Siaugue, J. M., Vignjevic, D., ... & Cappello, G. (2013). Mechanical control of cell flow in multicellular spheroids. Physical review letters, 110(13), 138103.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 8 - Continuous 2/Delarue_PRL_2013.pdf)
  * #### TD 8 - [Projects (exam)](https://github.com/hturlier/M2ICFP/tree/main/Exam%20-%20TDs7-9)
  For the exam (Turing paper), you may want to use the following Python software to solve coupled partial differential equations: [XMDS2](http://www.xmds.org)
+-->
