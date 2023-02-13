@@ -2,13 +2,13 @@
 ## M2 ICFP - 2022-2023
 ### Instructors: 
 - [Vincent Hakim](mailto:vincent.hakim@ens.fr) - Lessons 1-3 and 5 - Multicellular patterning
-- [Hervé Turlier](mailto:herve.turlier@college-de-france.fr) - Lessons 4 and 6-9 - Multicellular mechanics ([Complete notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/PhysicsMulticellularSystems.pdf))
+- [Hervé Turlier](mailto:herve.turlier@college-de-france.fr) - Lessons 4 and 6-9 - Multicellular mechanics 
+<!-- ([Complete notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/PhysicsMulticellularSystems.pdf)) -->
 - [Nicolas Ecker](mailto:nicolas.ecker@college-de-france.fr) - TDs 1-9
 
 
 ### Lesson 1 - Introduction to gene network models and dynamics
- * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2023-lecture1.pdf)
-<!-- * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2022-lecture1-slides.pdf) -->
+<!-- * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2023-lecture1.pdf) -->
  * #### TD 1 - [Oscillators](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_1-Oscillators)
  * #### References:
     + [Harima, Y., Takashima, Y., Ueda, Y., Ohtsuka, T., & Kageyama, R. (2013). Accelerating the tempo of the segmentation clock by reducing the number of introns in the Hes7 gene. Cell Reports, 3(1), 1-7.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/harimakageyama13cellrep.pdf)
