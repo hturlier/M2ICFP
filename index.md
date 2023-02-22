@@ -29,7 +29,7 @@
 
 ### Lesson 3 - Turing mechanism and self-organisation
  * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 3 - Turing mechanism and autoorganisation/M2-2023-lecture3_slides.pdf)
- * #### TD 3 - [Differentiation](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_3-Differentiation)
+ * #### TD 3 - [Turing](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_3-Turing)
  * #### References
     + [Ciliberto, S., Coullet, P., Lega, J., Pampaloni, E., & Perez-Garcia, C. (1990). Defects in roll-hexagon competition. Physical review letters, 65(19), 2370.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 3 - Turing mechanism and autoorganisation/cilibertocoullet90prl.pdf)
     + [Hiscock, T. W., Tschopp, P., & Tabin, C. J. (2017). On the formation of digits and joints during limb development. Developmental cell, 41(5), 459-465.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 3 - Turing mechanism and autoorganisation/hiscocktabin17devcell.pdf)
@@ -46,17 +46,17 @@
     + [Brodland, G. W. (2002). The differential interfacial tension hypothesis (DITH): a comprehensive theory for the self-rearrangement of embryonic cells and tissues. J. Biomech. Eng., 124(2), 188-197.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/Brodland_2002.pdf)
     + [Manning, M. L., Foty, R. A., Steinberg, M. S., & Schoetz, E. M. (2010). Coaction of intercellular adhesion and cortical tension specifies tissue surface tension. Proceedings of the National Academy of Sciences, 107(28), 12517-12522.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 4 - Tissue tension/Manning_PNAS_2010.pdf)
 
-<!--
-### Lesson 5 - Cell- cell interactions and patterning
+
+### Lesson 5 - Waves, localized states and cell-cell interactions
  * #### [Course notes]
- * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 5 - Self-organization 2/M2-2022-lecture4_slides.pdf)
- * #### TD 5 - [Turing](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_5-Turing)
+ * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 5 - Self-organization 2/M2-2023-lecture5_slides.pdf)
+ * #### TD 5 - [Differentiation](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_5-Differentiation)
  * #### References
-    + [Collier, J. R., Monk, N. A., Maini, P. K., & Lewis, J. H. (1996). Pattern formation by lateral inhibition with feedback: a mathematical model of delta-notch intercellular signalling. Journal of theoretical Biology, 183(4), 429-446.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 4 - Self-organization 2/collierlewis96jtb.pdf)
-    + [Schweisguth, F., & Corson, F. (2019). Self-organization in pattern formation. Developmental cell, 49(5), 659-677.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 4 - Self-organization 2/schweisguthcorson19devcell.pdf)
-    + [Talia, S. D., & Vergassola, M. (2022). Waves in Embryonic Development. Annual Review of Biophysics, 51.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 4 - Self-organization 2/ditaliavergassola22annrevbiophys.pdf)
+    + [Collier, J. R., Monk, N. A., Maini, P. K., & Lewis, J. H. (1996). Pattern formation by lateral inhibition with feedback: a mathematical model of delta-notch intercellular signalling. Journal of theoretical Biology, 183(4), 429-446.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 5 - Self-organization 2/collierlewis96jtb.pdf)
+    + [Schweisguth, F., & Corson, F. (2019). Self-organization in pattern formation. Developmental cell, 49(5), 659-677.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 5 - Self-organization 2/schweisguthcorson19devcell.pdf)
+    + [Talia, S. D., & Vergassola, M. (2022). Waves in Embryonic Development. Annual Review of Biophysics, 51.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 5 - Self-organization 2/ditaliavergassola22annrevbiophys.pdf)
 
-
+<!--
 ### Lesson 6 - Discrete models of tissues in 2D and 3D
  * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/M2-2022-lecture6.pdf)
  * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/Lesson6_vertex_slides.pdf)
