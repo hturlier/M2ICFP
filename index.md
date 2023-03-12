@@ -68,7 +68,7 @@
     + [Honda, H., Tanemura, M., & Nagai, T. (2004). A three-dimensional vertex dynamics cell model of space-filling polyhedra simulating cell behavior in a cell aggregate. Journal of theoretical biology, 226(4), 439-453.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/Honda_JTheoBiol_2004.pdf)
 
 
- * #### TD 7 - [Projects (exam)](https://github.com/hturlier/M2ICFP/tree/main/Exam%20-%20TDs7-9)
+#### TD 7 - [Projects (exam)](https://github.com/hturlier/M2ICFP/tree/main/Exam%20-%20TDs7-9)
 
 <!--
 ### Lesson 7 - Continuous models of tissues: dissipation, dynamics, nematics
