@@ -56,10 +56,10 @@
     + [Schweisguth, F., & Corson, F. (2019). Self-organization in pattern formation. Developmental cell, 49(5), 659-677.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 5 - Self-organization 2/schweisguthcorson19devcell.pdf)
     + [Talia, S. D., & Vergassola, M. (2022). Waves in Embryonic Development. Annual Review of Biophysics, 51.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 5 - Self-organization 2/ditaliavergassola22annrevbiophys.pdf)
 
-<!--
+
 ### Lesson 6 - Discrete models of tissues in 2D and 3D
- * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/M2-2022-lecture6.pdf)
- * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/Lesson6_vertex_slides.pdf)
+ * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/M2-2023-lecture6.pdf)
+ * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/M2-2023-lecture6_slides.pdf)
  * #### TD 6 - [VertexModel](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_6-Vertex_Models)
  * #### References
     + [Farhadifar, R., Röper, J. C., Aigouy, B., Eaton, S., & Jülicher, F. (2007). The influence of cell mechanics, cell-cell interactions, and proliferation on epithelial packing. Current Biology, 17(24), 2095-2104.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/Farhadifar_CurrBiol_2007.pdf)
@@ -68,6 +68,9 @@
     + [Honda, H., Tanemura, M., & Nagai, T. (2004). A three-dimensional vertex dynamics cell model of space-filling polyhedra simulating cell behavior in a cell aggregate. Journal of theoretical biology, 226(4), 439-453.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/Honda_JTheoBiol_2004.pdf)
 
 
+ * #### TD 7 - [Projects (exam)](https://github.com/hturlier/M2ICFP/tree/main/Exam%20-%20TDs7-9)
+
+<!--
 ### Lesson 7 - Continuous models of tissues: dissipation, dynamics, nematics
  * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7 - Continuous 1/M2-2022-lecture7.pdf)
  * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7 - Continuous 1/Lesson7-8_slides.pdf)
