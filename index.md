@@ -67,21 +67,17 @@
     + [Hannezo, E., Prost, J., & Joanny, J. F. (2014). Theory of epithelial sheet morphology in three dimensions. Proceedings of the National Academy of Sciences, 111(1), 27-32.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/Hannezo_PNAS_2014.pdf)
     + [Honda, H., Tanemura, M., & Nagai, T. (2004). A three-dimensional vertex dynamics cell model of space-filling polyhedra simulating cell behavior in a cell aggregate. Journal of theoretical biology, 226(4), 439-453.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 6 - Vertex models/Honda_JTheoBiol_2004.pdf)
 
-
-#### TD 7 - [Projects (exam)](https://github.com/hturlier/M2ICFP/tree/main/Exam%20-%20TDs7-9)
+### Lesson 7-8 - Continuous models of tissues: cellular nematics
+ * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7-8 - Cellular nematics/M2-2023-lecture7-8.pdf)
+ * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7-8 - Cellular nematics/M2-2023-lecture7-8_slides.pdf)
+ * #### References
+     + [Kruse, K., Joanny, J. F., Jülicher, F., Prost, J., & Sekimoto, K. (2005). Generic theory of active polar gels: a paradigm for cytoskeletal dynamics. The European Physical Journal E, 16(1), 5-16.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7-8 - Cellular nematics/Kruse_EPJE_2005.pdf)
+     + [Prost, J., Jülicher, F., & Joanny, J. F. (2015). Active gel physics. Nature physics, 11(2), 111-117.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7-8 - Cellular nematics/Prost_NatPhys_2015.pdf)
+     + [Duclos, G., Erlenkämper, C., Joanny, J. F., & Silberzan, P. (2017). Topological defects in confined populations of spindle-shaped cells. Nature Physics, 13(1), 58-62.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7-8 - Cellular nematics/Duclos_NaturePhysics_2017.pdf)
+     + [Duclos, G., Blanch-Mercader, C., Yashunsky, V., Salbreux, G., Joanny, J. F., Prost, J., & Silberzan, P. (2018). Spontaneous shear flow in confined cellular nematics. Nature physics, 14(7), 728-732.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7-8 - Cellular nematics/Duclos_NaturePhysics_2018.pdf)
+* #### TD 7-9 - [Projects (exam)](https://github.com/hturlier/M2ICFP/tree/main/Exam%20-%20TDs7-9)
 
 <!--
-### Lesson 7 - Continuous models of tissues: dissipation, dynamics, nematics
- * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7 - Continuous 1/M2-2022-lecture7.pdf)
- * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7 - Continuous 1/Lesson7-8_slides.pdf)
- * #### References
-     + [Kruse, K., Joanny, J. F., Jülicher, F., Prost, J., & Sekimoto, K. (2005). Generic theory of active polar gels: a paradigm for cytoskeletal dynamics. The European Physical Journal E, 16(1), 5-16.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7 - Continuous 1/Kruse_EPJE_2005.pdf)
-     + [Prost, J., Jülicher, F., & Joanny, J. F. (2015). Active gel physics. Nature physics, 11(2), 111-117.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7 - Continuous 1/Prost_NatPhys_2015.pdf)
-     + [Duclos, G., Erlenkämper, C., Joanny, J. F., & Silberzan, P. (2017). Topological defects in confined populations of spindle-shaped cells. Nature Physics, 13(1), 58-62.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7 - Continuous 1/Duclos_NaturePhysics_2017.pdf)
-     + [Duclos, G., Blanch-Mercader, C., Yashunsky, V., Salbreux, G., Joanny, J. F., Prost, J., & Silberzan, P. (2018). Spontaneous shear flow in confined cellular nematics. Nature physics, 14(7), 728-732.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7 - Continuous 1/Duclos_NaturePhysics_2018.pdf)
- * #### TD 7 - [Projects (exam)](https://github.com/hturlier/M2ICFP/tree/main/Exam%20-%20TDs7-9)
-For the exam (Turing paper), you may want to use the following Python software to solve coupled partial differential equations: [XMDS2](http://www.xmds.org)
-
 ### Lesson 8 - Continuous models of tissues: growth and homeostasis
  * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 8 - Continuous 2/M2-2022-lecture8.pdf)
  * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7 - Continuous 1/Lesson7-8_slides.pdf)
