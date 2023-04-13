@@ -3,7 +3,7 @@
 ### Instructors: 
 - [Vincent Hakim](mailto:vincent.hakim@ens.fr) - Lessons 1-3 and 5 - Multicellular patterning
 - [Hervé Turlier](mailto:herve.turlier@college-de-france.fr) - Lessons 4 and 6-9 - Multicellular mechanics 
-<!-- ([Complete notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/PhysicsMulticellularSystems.pdf)) -->
+([Complete notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/M2-ICFP-2023_PhysicsMulticellularSystems.pdf))
 - [Nicolas Ecker](mailto:nicolas.ecker@college-de-france.fr) - TDs 1-9
 
 
@@ -75,17 +75,17 @@
      + [Prost, J., Jülicher, F., & Joanny, J. F. (2015). Active gel physics. Nature physics, 11(2), 111-117.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7-8 - Cellular nematics/Prost_NatPhys_2015.pdf)
      + [Duclos, G., Erlenkämper, C., Joanny, J. F., & Silberzan, P. (2017). Topological defects in confined populations of spindle-shaped cells. Nature Physics, 13(1), 58-62.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7-8 - Cellular nematics/Duclos_NaturePhysics_2017.pdf)
      + [Duclos, G., Blanch-Mercader, C., Yashunsky, V., Salbreux, G., Joanny, J. F., Prost, J., & Silberzan, P. (2018). Spontaneous shear flow in confined cellular nematics. Nature physics, 14(7), 728-732.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7-8 - Cellular nematics/Duclos_NaturePhysics_2018.pdf)
+
+
+### Lesson 9 - Continuous models of tissues: growth and homeostasis
+ * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 9 - Tissue growth/Lesson9_growth.pdf)
+ * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 9 - Tissue growth/M2-2023-lecture9_slides.pdf)
+ * #### References
+     + [Basan, M., Risler, T., Joanny, J. F., Sastre‐Garau, X., & Prost, J. (2009). Homeostatic competition drives tumor growth and metastasis nucleation. HFSP journal, 3(4), 265-272.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 9 - Tissue growth/Basan_HFSP_2009.pdf)
+     + [Ranft, J., Basan, M., Elgeti, J., Joanny, J. F., Prost, J., & Jülicher, F. (2010). Fluidization of tissues by cell division and apoptosis. Proceedings of the National Academy of Sciences, 107(49), 20863-20868.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 9 - Tissue growth/Ranft_PNAS_2010.pdf)
+     + [Montel, F., Delarue, M., Elgeti, J., Malaquin, L., Basan, M., Risler, T., ... & Joanny, J. F. (2011). Stress clamp experiments on multicellular tumor spheroids. Physical review letters, 107(18), 188102.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 9 - Tissue growth/Montel_PRL_2011.pdf)
+     + [Delarue, M., Montel, F., Caen, O., Elgeti, J., Siaugue, J. M., Vignjevic, D., ... & Cappello, G. (2013). Mechanical control of cell flow in multicellular spheroids. Physical review letters, 110(13), 138103.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 9 - Tissue growth/Delarue_PRL_2013.pdf)
+
 * #### TD 7-9 - [Projects (exam)](https://github.com/hturlier/M2ICFP/tree/main/Exam%20-%20TDs7-9)
 
-<!--
-### Lesson 8 - Continuous models of tissues: growth and homeostasis
- * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 8 - Continuous 2/M2-2022-lecture8.pdf)
- * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 7 - Continuous 1/Lesson7-8_slides.pdf)
- * #### References
-     + [Basan, M., Risler, T., Joanny, J. F., Sastre‐Garau, X., & Prost, J. (2009). Homeostatic competition drives tumor growth and metastasis nucleation. HFSP journal, 3(4), 265-272.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 8 - Continuous 2/Basan_HFSP_2009.pdf)
-     + [Ranft, J., Basan, M., Elgeti, J., Joanny, J. F., Prost, J., & Jülicher, F. (2010). Fluidization of tissues by cell division and apoptosis. Proceedings of the National Academy of Sciences, 107(49), 20863-20868.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 8 - Continuous 2/Ranft_PNAS_2010.pdf)
-     + [Montel, F., Delarue, M., Elgeti, J., Malaquin, L., Basan, M., Risler, T., ... & Joanny, J. F. (2011). Stress clamp experiments on multicellular tumor spheroids. Physical review letters, 107(18), 188102.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 8 - Continuous 2/Montel_PRL_2011.pdf)
-     + [Delarue, M., Montel, F., Caen, O., Elgeti, J., Siaugue, J. M., Vignjevic, D., ... & Cappello, G. (2013). Mechanical control of cell flow in multicellular spheroids. Physical review letters, 110(13), 138103.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 8 - Continuous 2/Delarue_PRL_2013.pdf)
- * #### TD 8 - [Projects (exam)](https://github.com/hturlier/M2ICFP/tree/main/Exam%20-%20TDs7-9)
- For the exam (Turing paper), you may want to use the following Python software to solve coupled partial differential equations: [XMDS2](http://www.xmds.org)
--->
+ 
