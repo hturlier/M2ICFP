@@ -1,22 +1,22 @@
 # Course Physics of multicellular systems
-## M2 ICFP - 2022-2023
+## M2 ICFP - 2023-2024
 ### Instructors: 
-- [Vincent Hakim](mailto:vincent.hakim@ens.fr) - Lessons 1-3 and 5 - Multicellular patterning
-- [Hervé Turlier](mailto:herve.turlier@college-de-france.fr) - Lessons 4 and 6-9 - Multicellular mechanics 
-([Complete notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/M2-ICFP-2023_PhysicsMulticellularSystems.pdf))
+- [Francis Corso](mailto:francis.corson@ens.fr) - Lessons 1-4 - Multicellular patterning
+- [Hervé Turlier](mailto:herve.turlier@college-de-france.fr) - Lessons 5-9 - Multicellular mechanics 
+<!--([Complete notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/M2-ICFP-2023_PhysicsMulticellularSystems.pdf)) -->
 - [Nicolas Ecker](mailto:nicolas.ecker@college-de-france.fr) - TDs 1-9
 
 
 ### Lesson 1 - Introduction to gene network models and dynamics
-<!-- * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2023-lecture1.pdf) -->
- * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2023-lecture1-slides.pdf)
+<!-- * #### [Course notes](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2023-lecture1.pdf)
+ * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/M2-2023-lecture1-slides.pdf)-->
  * #### TD 1 - [Oscillators](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_1-Oscillators)
  * #### References:
     + [Harima, Y., Takashima, Y., Ueda, Y., Ohtsuka, T., & Kageyama, R. (2013). Accelerating the tempo of the segmentation clock by reducing the number of introns in the Hes7 gene. Cell Reports, 3(1), 1-7.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/harimakageyama13cellrep.pdf)
     + [Farrell, J. A., Wang, Y., Riesenfeld, S. J., Shekhar, K., Regev, A., & Schier, A. F. (2018). Single-cell reconstruction of developmental trajectories during zebrafish embryogenesis. Science, 360(6392).](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/farrellschier18science.pdf)
     + [Han, X., Wang, R., Zhou, Y., Fei, L., Sun, H., Lai, S., ... & Guo, G. (2018). Mapping the mouse cell atlas by microwell-seq. Cell, 172(5), 1091-1107.](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 1 - Introduction to gene network models and dynamics/hanguo18cell.pdf)
 
-
+<!--
 ### Lesson 2 - Positional information
  * #### [Course slides](https://github.com/hturlier/M2ICFP/tree/main/Hakim/Lecture 2 - positional information/M2-2023-lecture2_slides.pdf)
  * #### TD 2 - [Patterning](https://github.com/hturlier/M2ICFP/tree/main/Ecker/TD_2-Patterning)
@@ -87,5 +87,5 @@
      + [Delarue, M., Montel, F., Caen, O., Elgeti, J., Siaugue, J. M., Vignjevic, D., ... & Cappello, G. (2013). Mechanical control of cell flow in multicellular spheroids. Physical review letters, 110(13), 138103.](https://github.com/hturlier/M2ICFP/tree/main/Turlier/Lecture 9 - Tissue growth/Delarue_PRL_2013.pdf)
 
 * #### TD 7-9 - [Projects (exam)](https://github.com/hturlier/M2ICFP/tree/main/Exam%20-%20TDs7-9)
-
+-->
  
