@@ -1,7 +1,7 @@
 # Course Physics of multicellular systems
 ## M2 ICFP - 2023-2024
 ### Instructors: 
-- [Francis Corso](mailto:francis.corson@ens.fr) - Lessons 1-4 - Multicellular patterning
+- [Francis Corson](mailto:francis.corson@ens.fr) - Lessons 1-4 - Multicellular patterning
 - [Hervé Turlier](mailto:herve.turlier@college-de-france.fr) - Lessons 5-9 - Multicellular mechanics 
 <!--([Complete notes](https://github.com/hturlier/M2ICFP/tree/main/Turlier/M2-ICFP-2023_PhysicsMulticellularSystems.pdf)) -->
 - [Nicolas Ecker](mailto:nicolas.ecker@college-de-france.fr) - TDs 1-9
