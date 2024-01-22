@@ -3,6 +3,6 @@
 ## https://hturlier.github.io/M2ICFP/
 
 #### Instructors: 
-- [Vincent Hakim](mailto:vincent.hakim@ens.fr) - Lessons 1-3 and 4
-- [Hervé Turlier](mailto:herve.turlier@college-de-france.fr) - Lessons 4 and 6-9
+- [Francis Corson](mailto:francis.corson@ens.fr) - Lessons 1-4
+- [Hervé Turlier](mailto:herve.turlier@college-de-france.fr) - Lessons 5-9
 - [Nicolas Ecker](mailto:nicolas.ecker@college-de-france.fr) - TDs 1-9
