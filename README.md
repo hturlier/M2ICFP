@@ -1,5 +1,5 @@
 # Website and repository for the course Physics of multicellular systems
-## Master 2 ICFP -- 2022-2023
+## Master 2 ICFP -- 2023-2024
 ## https://hturlier.github.io/M2ICFP/
 
 #### Instructors: 
